@@ -13,7 +13,7 @@ Exercising team building and working with distributed teams and using creativity
 
 I also use a creative and flexible approach to problem-solving and do my best to bring new perspectives to any team or environment I find myself in.
 
-I'm interested in both development and Product management and want my skills in both to complement each other.
+I'm interested in both Development and Product Management and want my skills in both to complement each other.
 
 ---
 
@@ -29,7 +29,7 @@ I'm interested in both development and Product management and want my skills in 
 
 😄 Pronouns: Human being.
 
-⚡ Fun fact: If you have said to me 3 years before that I am going to be a software developer I would laugh at your face very hard and said to you are you crazy or what but now I love everything about tech and software!
+⚡ Fun fact: If you have said to me 3 years before that I am going to be a software developer I would have laughed in your face very hard and said to you 'are you crazy or what?' but now I love everything about tech and software!
 
 ---
 
@@ -37,5 +37,5 @@ My toolbox 🧰
 
 Tools that I have worked with: HTML, JavaScript(ES6), CSS, React, GraphQL, Git/GitHub, Next.js, React Native, Gatsby, Figma Design, Storyblock, Contentful, Miro, Notion, Trello.
 
-Learning by doing using Scrum framework with Agile methodology.
+Learning by doing using Scrum framework with the Agile methodology.
 
