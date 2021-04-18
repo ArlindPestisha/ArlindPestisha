@@ -31,4 +31,11 @@ I'm interested in both development and Product management and want my skills in 
 
 ⚡ Fun fact: If you have said to me 3 years before that I am going to be a software developer I would laugh at your face very hard and said to you are you crazy or what but now I love everything about tech and software!
 
+---
+
+My toolbox 🧰
+
+Tools that I have worked with: HTML, JavaScript(ES6), CSS, React, GraphQL, Git/GitHub, Next.js, React Native, Gatsby, Figma Design, Storyblock, Contentful, Miro, Notion, Trello.
+
+Learning by doing using Scrum framework with Agile methodology.
 
