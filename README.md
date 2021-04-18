@@ -5,6 +5,18 @@
 <!--
 **ArlindPestisha/ArlindPestisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+In a former life, I was a Team Leader, Project Manager, Sales, Marketing Manager, and Social Media
+Manager. Today, I've just completed my studies of studying Front-End Development at Hyper Island, and now am looking for a job.
+
+
+Exercising team building and working with distributed teams and using creativity is what makes me tick. I'm motivated by the opportunity to create meaningful experiences.
+
+I also use a creative and flexible approach to problem-solving and do my best to bring new perspectives to any team or environment I find myself in.
+
+I'm interested in both development and Product management and want my skills in both to complement each other.
+
+---
+
 🔭 I’m currently working on my startup [Codava Sweden](https://codava.se/) which is a web development and design agency and founded by me and two classmates from the school where we studied Frontend Development at [Hyper Island Stockholm](https://www.hyperisland.com/)!!
 
 🌱 I’m currently learning everything about how to help businesses, organizations, and individuals to build and transform their activities in the digital world.
