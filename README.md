@@ -23,17 +23,17 @@ I'm interested in both Development and Product Management and want my skills in 
 
 💬 Ask me about sports (Formula 1, Football) books, space, nature, and Team Development.
 
-📫 How to reach me: about business and collaboration arlind@codava.se or check out my [LinkedIn](https://www.linkedin.com/in/arlind-pestisha-83944b147/).
+📫 How to reach me: arlind.pestisha@gmail.com or check out my [LinkedIn](https://www.linkedin.com/in/arlind-pestisha-83944b147/).
 
 😄 Pronouns: Human being.
 
-⚡ Fun fact: If you have said to me 3 years before that I am going to be a software developer I would have laughed in your face very hard and said to you 'are you crazy or what?' but now I love everything about tech and software!
+⚡ Fun fact: If you have said to me 4 years before that I am going to be a software developer I would have laughed in your face very hard and said to you 'are you crazy or what?' but now I love everything about tech and software!
 
 ---
 
 My toolbox 🧰
 
-Tools that I have worked with: HTML, JavaScript(ES6), CSS, React, GraphQL, Git/GitHub, Next.js, React Native, Gatsby, Figma Design, Storyblock, Contentful, Miro, Notion, Trello.
+Tools that I have worked with: HTML, JavaScript(ES6), CSS, React, Vue, GraphQL, Git/GitHub, Next.js, React Native, Gatsby, Figma Design, Storyblock, Contentful, Miro, Notion, Trello.
 
 Learning by doing using Scrum framework with the Agile methodology.
 
