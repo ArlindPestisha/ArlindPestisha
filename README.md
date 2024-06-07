@@ -6,7 +6,7 @@
 **ArlindPestisha/ArlindPestisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 In a former life, I was a Team Leader, Project Manager, Sales, Marketing Manager, and Social Media
-Manager. Today, I am an avid learner and a Software developer and now am looking for a job.
+Manager. Today, I am an avid learner and a Software developer.
 
 
 Exercising team building and working with distributed teams and using creativity is what makes me tick. I'm motivated by the opportunity to create meaningful experiences.
@@ -27,13 +27,13 @@ I'm interested in both Development and Product Management and want my skills in 
 
 😄 Pronouns: Human being.
 
-⚡ Fun fact: If you have said to me 4 years before that I am going to be a software developer I would have laughed in your face very hard and said to you 'are you crazy or what?' but now I love everything about tech and software!
+⚡ Fun fact: If you have said to me 5 years before that I am going to be a software developer I would have laughed in your face very hard and said to you 'are you crazy or what?' but now I love everything about tech and software!
 
 ---
 
 My toolbox 🧰
 
-Tools that I have worked with: HTML, JavaScript(ES6), CSS, React, Vue, GraphQL, Git/GitHub, Next.js, React Native, Gatsby, Figma Design, Storyblock, Contentful, Miro, Notion, Trello.
+Tools that I have worked with: HTML, JavaScript(ES6), CSS, TypeScript, React, Vue, GraphQL, Git/GitHub, Next.js, React Native, Gatsby, Figma Design, Storyblock, Contentful, Miro, Notion, Trello.
 
 Learning by doing using Scrum framework with the Agile methodology.
 
